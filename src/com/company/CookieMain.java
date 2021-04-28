@@ -12,7 +12,7 @@ public class CookieMain {
 
     public CookieMain(){
 
-
+        creatUI();
     }
 
     public void creatUI(){
